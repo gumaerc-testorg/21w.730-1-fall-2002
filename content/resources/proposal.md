@@ -6,6 +6,7 @@ file: /courses/21w-730-1-expository-writing-exploring-social-and-ethical-issues-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,5 +16,3 @@ title: 'Proposal #1 Review: Essay 2: Investigative Essay/Comparative Analysis'
 uid: 720225ad-a34d-bcb5-62c2-3219a0bfb35e
 ---
 Assignment to write a proposal for an investigate essay on a contemporary social or ethical problem or issue. 
-
-

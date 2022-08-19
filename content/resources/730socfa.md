@@ -6,6 +6,7 @@ file: /courses/21w-730-1-expository-writing-exploring-social-and-ethical-issues-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Essay #1: Personal Essay: Reasons to Believe: Developing Awareness of a 
 uid: 245dd16b-c959-1fbb-72e5-61fc9927cb3d
 ---
 Assignment to write an essay reflecting upon one or two key influences upon your own awareness of a social or ethical problem or issue. 
-

@@ -5,6 +5,7 @@ file: /courses/21w-730-1-expository-writing-exploring-social-and-ethical-issues-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Preparing Your Final Portfolio
 uid: 88db663e-a52e-2cbc-2644-fe4f80e533b0
 ---
 Instructions and guidelines for preparing a final portfolio for the course.
-

@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Pen and Film Frames
 uid: fa4954a9-a54c-1d13-87c1-71fa0afae1c7
 ---
 Photograph of pen and film frames. (Image courtesy of Daniel Bersak.)
-
